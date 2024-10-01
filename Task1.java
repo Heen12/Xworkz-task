@@ -9,10 +9,10 @@ public class prog1 {
         byte precipitationChance = 15;
         byte airQualityIndex = 50;
 
-        // Short and int variables (corrected) - reassigned values
+       
         short totalPopulation = 2000;
         short areaSize = 400;
-        int averageIncome = 60000; // Changed to int
+        int averageIncome = 60000; 
         short numberOfSchools = 30;
         short numberOfHospitals = 12;
         short averageAge = 40;
