@@ -1,8 +1,8 @@
-public class methodsExample {
+public class Task2 {
     public static void main(String[] args) {
         sayHello();
-        greetUser("Priya");
-        userInfo("Priya", 23);
+        greetUser("Heena");
+        userInfo("Heena", 23);
         calculateSum();
         calculateMul();
         calculateDiv();
@@ -14,7 +14,7 @@ public class methodsExample {
     }
 
     public static void sayHello() {
-        System.out.println("Hey! My name is Priya I am from Honnavara");
+        System.out.println("Hey! This is Heena");
 
     }
 
