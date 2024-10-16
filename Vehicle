@@ -1,0 +1,19 @@
+public class Vehicle {
+    String vehicleType;          
+    int vehicleNumber;         
+    String targetLocation;      
+    int seatingCapacity;       
+    int currentOccupants;       
+
+    public static void main(String[] args) {
+    }
+
+    public static void initiate() {    
+    }
+
+    public static void halt() {         
+    }
+
+    public static void updateLocation() {  
+    }
+}
